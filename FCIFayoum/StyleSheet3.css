@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+   text-align:center;
+   color:white;
+   font-size:25px;
+   background-image:url("img/galary.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+.galary{
+    width:300px;
+    height:250px;
+}
+.galary .images{
+    position:relative;
+}
+.small span{
+    position:absolute;
+    padding:5px;
+    background-color:#ffffff;
+    border:1px solid #ffffff;
+    top:0px;
+    left:300px;
+    display:none;
+}
+.small:hover span{
+    display:block;
+}

@@ -1,0 +1,14 @@
+ *{
+    background-color:white;
+    direction: rtl;
+    font-family: 'Traditional Arabic';
+    font-size: 30px;
+}
+figure{
+    align-content:center;
+    text-align:center;
+}
+h1{
+    font-size:35px;
+    text-align:center;
+}

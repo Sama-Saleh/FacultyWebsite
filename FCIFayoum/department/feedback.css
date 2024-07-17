@@ -1,0 +1,20 @@
+
+.card
+{
+    margin-top:3%;
+     margin-left:7%;
+    text-align:left;
+    font-size:30px;
+    color:darkBlue;
+    padding-top:6%;
+    padding-left:2%;
+    background-color:silver;
+    border:2px solid black;
+    width:50%;
+    height:60%;
+     box-shadow:0 4px 8px 4px teal;
+     }
+     
+     body
+     {
+         background-color:Silver;}

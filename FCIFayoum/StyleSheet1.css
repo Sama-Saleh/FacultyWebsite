@@ -1,0 +1,15 @@
+.title {
+    font-family: 'Lemonada-Bold';
+    direction: rtl;
+    text-align: center;
+    margin: 0px auto;
+    padding: 5px;
+    width: 250px;
+    box-shadow: 10px 10px 20px hsl(226deg 48% 57% / 91%);
+}
+figure {
+    align-content: center;
+    text-align: center;
+    font-size:25px;
+
+}

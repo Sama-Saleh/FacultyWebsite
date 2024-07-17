@@ -1,0 +1,29 @@
+
+*
+{
+    direction:rtl;}
+    h1
+    {
+        margin-right:2%;}
+      
+    
+    .card
+{
+    margin-top:3%;
+     margin-right:7%;
+    text-align:right;
+    font-size:40px;
+    color:darkBlue;
+    padding-top:3%;
+     padding-bottom:3%;
+    padding-right:2%;
+    background-color:silver;
+    border:2px solid black;
+    width:50%;
+    height:60%;
+     box-shadow:0 4px 8px 4px teal;
+     }
+     
+     body
+     {
+         background-color:Silver;}

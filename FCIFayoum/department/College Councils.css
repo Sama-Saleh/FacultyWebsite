@@ -1,0 +1,64 @@
+*{
+     direction:ltr;
+ }
+h1{
+    font-size: 30px;
+    color: blue;
+    text-align:left;
+     box-shadow: 0 4px 4px 0 skyblue;
+       transition: 1.3s;
+       background-color:Silver;
+}
+table
+{ border:1px solid black;
+  width:98%;
+  height:100%; 
+  margin-left:1%;
+  
+}
+
+table:hover
+{
+    color:blue;
+}
+    
+td
+{
+    width:30%;
+  height:30%;
+       font-size:larger;
+    background:rgba(0,0,0,0.1);
+     padding:15px;
+    border:1px solid black;
+    text-align:center;
+    }
+th
+{
+     padding:14px;
+    border-collapse:collapse;
+    text-align:right;
+    color:blue;
+    font-size:larger;
+  
+}
+    
+    .container 
+{
+    margin-left:1%;
+     margin-right:7%;
+      margin-top:.5%;
+       margin-bottom:2%;
+    background-color:white;
+   width:93%;
+   height:85%;
+   float:left;
+    box-shadow: 0 8px 16px 0 teal;
+  border-radius: 5px; /* 5px rounded corners */ }
+  
+  /* On mouse-over, add a deeper shadow */
+.container:hover {
+  box-shadow: 0 8px 16px 0 darkblue;
+  transition: 1.3s;
+  background:rgba(0,0,0,0.1);
+  }
+  

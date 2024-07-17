@@ -1,0 +1,65 @@
+﻿ *{
+     direction:rtl;
+ }
+
+h1{
+    font-size: 30px;
+    color: blue;
+    text-align:center;
+     box-shadow: 0 4px 4px 0 skyblue;
+       transition: 0.3s;
+       background-color:Silver;
+}
+ h2{
+    font-size: 23px;
+    color: blue;
+     
+}
+
+p {
+    font-size: 17px;
+    
+}
+.card 
+{
+    background-color:white;
+   width:80%;
+   height:57%;
+   float:right;
+   margin-top:1%;
+   margin-bottom:1%;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img 
+{
+  display:block;
+    margin-right:auto;
+     margin-left:auto;
+  border-radius: 5px 8px 0 0; 
+  }
+  .card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 skyblue ;
+  transition: 1.5s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+ box-shadow: 0 4px 16px 0 black ;
+  transition: 1.5s;
+  color:blue;
+}
+
+/* Add some padding inside the card container */
+.container 
+{
+     
+    background-color:white;
+    margin-right:5%;
+   width:70%;
+   height:20%;
+  padding: 3px 1px 3px 1px;
+  text-align:right;}
+  

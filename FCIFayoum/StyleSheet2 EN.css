@@ -1,0 +1,34 @@
+﻿* {
+    direction: ltr;
+}
+
+table {
+    width: 100% stretch;
+    border: 50px solid #ccc;
+    border-spacing: 0px;
+    margin: 100px 280px;
+}
+
+    table caption {
+        font-size: 40px;
+        font-family: Calibri;
+    }
+
+    table td {
+        padding: 50px;
+        border: 20px solid #ccc;
+        background-color: #eee;
+        font-size: 25px;
+    }
+
+a {
+    color: black;
+}
+
+    a:hover {
+        background-color: #e37cc5;
+    }
+
+    a:active {
+        color: red;
+    }
